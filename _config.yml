@@ -16,7 +16,6 @@
 title: My Site That Has Things
 description: >-
   This site will eventually have things.
-  
   With any luck, these things will be meaningful and/or valuable in some way.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://github.com/tomizechsterson/tomizechsterson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
