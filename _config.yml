@@ -16,7 +16,7 @@
 title: My Site That Has Things
 description: >- # this means to ignore newlines until "baseurl:"
   This site will eventually have things.
-  With any luck these things will be meaningful.
+  With any luck, these things will be meaningful.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://github.com/tomizechsterson/tomizechsterson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
