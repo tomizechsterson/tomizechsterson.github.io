@@ -40,9 +40,6 @@ exclude:
   - .gitignore
   - .idea/
 
-github:
-  - repository_url: https://github.com/tomizechsterson/tomizechsterson.github.io
-  - owner_url: https://github.com/tomizechsterson
-  - owner_name: Tomas
+github: [metadata]
 
 permalink: /blog/:year/:month/:day/:title
