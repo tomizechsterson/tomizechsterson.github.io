@@ -13,9 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Site That has Things
+title: My Site That Has Things
 description: >- # this means to ignore newlines until "baseurl:"
   This site will eventually have things.
+  With any luck these things will be meaningful.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://github.com/tomizechsterson/tomizechsterson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -41,5 +42,9 @@ exclude:
   - .idea/
 
 github: [metadata]
+
+owner_name: Tomas
+owner_url: https://github.com/tomizechsterson
+repo_url: https://github.com/tomizechsterson/tomizechsterson.github.io
 
 permalink: /blog/:year/:month/:day/:title
