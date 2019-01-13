@@ -43,6 +43,6 @@ exclude:
   - .gitignore
   - .idea/
 
-github: [metadata]
+github: [metadata]  # this prevents the No GitHub API authentication could be found error for some reason
 
 permalink: /blog/:year/:month/:day/:title
