@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bacon Ipsum is fun"
-date: 2019-01-11
 ---
 
 Bacon ipsum dolor amet pancetta swine burgdoggen et spare ribs anim. Pork loin ex corned beef in sirloin enim nulla beef ribs capicola burgdoggen commodo est. Ea meatloaf turducken alcatra andouille, dolor pig kevin non aute chuck. Dolor filet mignon beef ribs, tongue sed turducken tempor short loin.

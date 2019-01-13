@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2019-01-10 10:20:26 -0700
 ---
 
 Jekyll also offers powerful support for code snippets:

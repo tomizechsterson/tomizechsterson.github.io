@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Gangsta Ipsum"
-date: 2019-01-09
 ---
 
 Lorizzle ipsum dolor sit amizzle, mofo adipiscing elit. Nullizzle shizznit velizzle, i saw beyonces tizzles and my pizzle went crizzle volutpizzle, suscipit that's the shizzle, gravida vizzle, shiznit. Pellentesque eget tortizzle. Sed eros. Hizzle izzle dolizzle dapibus pimpin' tempizzle phat. Mauris boom shackalack dizzle mammasay mammasa mamma oo sa break yo neck, yall. Vestibulum izzle tortor. Boom shackalack eleifend rhoncizzle pimpin'. In things habitasse yo mamma dizzle. Donec dapibizzle. Hizzle yo cool, pretizzle eu, mattizzle ac, check it out tellivizzle, owned. Gangsta suscipizzle. Integer shiznit velit sed purus.
