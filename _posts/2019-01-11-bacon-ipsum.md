@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bacon Ipsum is fun"
 ---
 
