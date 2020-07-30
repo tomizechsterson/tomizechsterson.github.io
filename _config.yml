@@ -34,8 +34,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - .gitignore
-  - .idea/
 
 github: [metadata]  # this prevents the 'No GitHub API authentication could be found' error for some reason
 
