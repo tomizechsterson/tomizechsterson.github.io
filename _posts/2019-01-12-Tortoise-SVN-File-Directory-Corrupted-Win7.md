@@ -3,9 +3,9 @@ title: "Tortoise SVN - The file or directory is corrupted and unreadable in Wind
 tags: [windows, 7, tortoise, svn, file, directory, corrupted, win7]
 ---
 
-<strong>NOTE:</strong> This is a <em>very</em> old post I made way back on 2/20/2010 that I'm bringing here to further
-test and to keep everything in one place. If you want the original, it should still be
-[here](https://tomizechsterson.blogspot.com/2010/02/tortoise-svn-file-or-directory-is.html).
+<strong>NOTE:</strong> This is a <em>very</em> old post I made way back on 2/20/2010 that I'm bringing here to help
+test as I become more familiar with this blogging business, and to keep everything in one place. If you want the
+original, it should still be [here](https://tomizechsterson.blogspot.com/2010/02/tortoise-svn-file-or-directory-is.html).
 
 I figured a good first blog would be something that I've discovered with Windows 7 Ultimate 64-bit and Tortoise SVN
 1.6.7 Build 18415 - 64 Bit with Subversion 1.6.9. For a while, I had the most difficult time doing commits and updates
