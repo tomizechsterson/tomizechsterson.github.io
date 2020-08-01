@@ -1,5 +1,6 @@
 ---
 title: "Gangsta Ipsum"
+shortTitle: "Gangsta"
 ---
 
 Lorizzle ipsum dolor sit amizzle, mofo adipiscing elit. Nullizzle shizznit velizzle, i saw beyonces tizzles and my

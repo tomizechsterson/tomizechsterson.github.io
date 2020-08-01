@@ -1,5 +1,6 @@
 ---
 title: "Pirate Ipsum"
+shortTitle: "Pirate"
 ---
 
 Plunder tender parley landlubber or just lubber sloop sutler quarterdeck. Come about yard weigh anchor heave to belaying pin bilge rat gabion. Cable lateen sail gangplank walk the plank careen bilge water reef. Hands keelhaul hearties bowsprit overhaul knave stern. Quarter Jack Tar bilge rat bilge swab interloper lanyard.

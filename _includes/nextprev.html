@@ -9,10 +9,10 @@
 </div>
 <div class="postFooter nextprev mobile">
     {% if page.previous %}
-    <a href="{{ page.previous.url }}"><< previous</a>
+    <a href="{{ page.previous.url }}"><< {{page.previous.shortTitle}}</a>
     {% endif %}
     |
     {% if page.next %}
-    <a href="{{ page.next.url }}"> next >></a>
+    <a href="{{ page.next.url }}"> {{page.next.shortTitle}} >></a>
     {% endif %}
 </div>

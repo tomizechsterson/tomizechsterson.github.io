@@ -1,5 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
+shortTitle: "Welcome"
 ---
 
 Jekyll also offers powerful support for code snippets:
