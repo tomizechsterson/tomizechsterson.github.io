@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
