@@ -1,4 +1,4 @@
-<nav>
+<div class="postFooter nextprev desktop">
     {% if page.previous %}
     <a href="{{ page.previous.url }}"><< {{ page.previous.title }}</a>
     {% endif %}
@@ -6,4 +6,13 @@
     {% if page.next %}
     <a href="{{ page.next.url }}"> {{ page.next.title }} >></a>
     {% endif %}
-</nav>
+</div>
+<div class="postFooter nextprev mobile">
+    {% if page.previous %}
+    <a href="{{ page.previous.url }}"><< previous</a>
+    {% endif %}
+    |
+    {% if page.next %}
+    <a href="{{ page.next.url }}"> next >></a>
+    {% endif %}
+</div>

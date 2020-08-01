@@ -29,3 +29,21 @@ section #footer .credits.left {
 section #footer .credits.right {
   float: right;
 }
+
+@media print, screen and (max-width: 767px) {
+  div .postFooter.nextprev.desktop {
+    display: none;
+  }
+  div .postFooter.nextprev.mobile {
+    display: block;
+  }
+}
+
+@media print, screen and (min-width: 768px) {
+  div .postFooter.nextprev.desktop {
+    display: block;
+  }
+  div .postFooter.nextprev.mobile {
+    display: none;
+  }
+}
