@@ -23,7 +23,7 @@ repo_url: https://github.com/tomizechsterson/tomizechsterson.github.io
 repository: tomizechsterson/tomizechsterson.github.io
 markdown: kramdown
 theme: jekyll-theme-midnight
-plugins: []
+plugins: [jekyll-feed]
 
 # Exclude from processing.
 exclude:
