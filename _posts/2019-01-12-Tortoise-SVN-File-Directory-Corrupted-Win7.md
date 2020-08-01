@@ -1,5 +1,6 @@
 ---
 title: "Tortoise SVN - The file or directory is corrupted and unreadable in Windows 7"
+description: An old post regarding Tortoise SVN on Windows 7
 tags: [windows, 7, tortoise, svn, file, directory, corrupted, win7]
 ---
 
